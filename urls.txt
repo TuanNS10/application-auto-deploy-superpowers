@@ -1,1 +1,2 @@
 GitHub repository: https://github.com/TuanNS10/application-auto-deploy-superpowers
+URL Frontend: http://udapeople-14cbc30.s3-website-us-east-1.amazonaws.com/#/employees
